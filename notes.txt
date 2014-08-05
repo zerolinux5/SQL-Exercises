@@ -1,0 +1,3 @@
+This command helps with displaying the tables
+	sqlite3 -header -column -echo .db < .sql
+from ex8 in sql book
